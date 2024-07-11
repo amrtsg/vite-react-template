@@ -4,6 +4,8 @@
 Quick starter Vite + React + TS template
 
 ## Initial Template Setup (This is already done)
+
+To setup the same template you can follow this section, this is already done so you do not need to do this. To run the template go to the next section.
 ```
 > npm create vite@latest // you will be prompted for project name & template
 > cd YOURPROJECTNAME
